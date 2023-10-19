@@ -13,7 +13,13 @@
 
 #
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gugal28&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+ <div align="center">
+  <a href="https://github.com/gugal28"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugal28&show_icons=true&theme=algolia&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugal28&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+</div>
+<br>
 
 #
 
