@@ -13,6 +13,10 @@
 
 #
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gugal28&theme=onestar&no-frame=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+#
+
 <div> 
   <a href="https://instagram.com/azevedol28" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.azev27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
