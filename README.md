@@ -1,8 +1,5 @@
 ### E ai! Mano Azevedo aqui
 
-- 🔭 Trabalho FullStack na plataforma Multi Theft Auto
-- 🌱 Estudando: Javascript e Docker
-- ⚡ Estudante do curso.dev
 
 #
 
